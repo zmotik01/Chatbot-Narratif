@@ -1,0 +1,49 @@
+Semaine 1 – 19/05/2025
+
+Ce que nous avons fait :
+- Définition du thème du projet : IA générative de style Pulp Fiction
+- Choix des outils : Python, LangChain, llama-cpp, Jupyter
+- Test d'installation de LangChain et du modèle local (résolution de bugs)
+- Création d’un jeu de prompts narratifs (format JSON)
+- Début de l'exploration de LangChain avec LlamaCpp
+- Utilisation du few-shot-prompting pour l'entrainement du modele
+
+Ce que nous comptons faire la semaine suivante :
+- Intégrer le modèle avec LangChain et générer une fin d’histoire
+- Commencer à structurer le code et les fonctions principales pour le chatbot
+
+
+Semaine 2 - 26/05/2025
+
+Ce que nous avons fait :
+- Changement du modèle Llama pour le modèle Mistral AI 7B (Raison : modèle plus rapide, plus performant, plus intégrable que Llama)
+- Génération d'une histoire à partir d'une consigne
+- Début du calcul métrique (utilisation de ROUGE et BLEU)
+- Début de développement d'un container Docker
+
+Ce que nous comptons faire la semaine suivante :
+- Poursuite du calcul métrique
+- Poursuite du développement d'un container Docker
+
+
+Semaine 3 - 02/06/2025
+
+Ce que nous avons fait :
+- Création d'une image Docker pour le modèle Mistral AI
+- Création de données avec des consignes, histoires (fichier Excel)
+- Test de comparaison des histoires générées avec la métrique ROUGE
+- Changement de la métrique ROUGE par BERTScore (Raison : BERTScore compare deux textes en se basant sur le sens des mots, pas juste les mots eux-mêmes, contrairement à ROUGE)
+
+Ce que nous comptons faire la semaine suivante :
+- Poursuite du calcul métrique avec BERTScore sur les histoires générées par le modèle, celles de notre pipeline, et celles générées par ChatGPT
+
+
+Semaine 4 - 16/06/2025
+
+Ce que nous avons fait :
+- Calcul métrique avec BERTScore sur les histoires générées par le modèle, celles de notre pipeline, et celles générées par ChatGPT
+- Création du Chatbot interactif
+- Restructuration du code
+
+Ce que nous comptons faire la semaine suivante :
+- Poursuite de l'oral, de la rédaction de notre diaporama et du README

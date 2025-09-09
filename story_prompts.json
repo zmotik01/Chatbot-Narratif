@@ -1,0 +1,34 @@
+{
+    "story_prompts": [
+        {
+            "id": 1,
+            "title": "Ruelle dangereuse",
+            "prompt": "Il était 3h12 du matin quand Marco entendit le premier coup de feu dans la ruelle derrière son bar. Il saisit sa batte de baseball et descendit sans un mot."
+        },
+        {
+            "id": 2,
+            "title": "Valise mystérieuse",
+            "prompt": "Assis à l'arrière du taxi, Lenny ne comprenait toujours pas pourquoi tout le monde voulait cette foutue valise noire. Il n'avait pas encore osé l'ouvrir."
+        },
+        {
+            "id": 3,
+            "title": "Casino mortel",
+            "prompt": "Rico venait de faire sauter la banque au blackjack. Mais le croupier ne souriait pas. Il appuya sur un bouton rouge sous la table."
+        },
+        {
+            "id": 4,
+            "title": "Livraison interdite",
+            "prompt": "Sur le paquet, il n'y avait qu'un mot : 'ouvrir seulement à minuit'. Mais Jake ne croyait plus aux règles depuis qu'on avait tué sa sœur."
+        },
+        {
+            "id": 5,
+            "title": "Dialogue tendu",
+            "prompt": "– T'as deux minutes pour m'expliquer pourquoi mon frigo est plein de billets.\n– J'avais faim, ok ? Pas pour de la bouffe, pour du fric."
+        },
+        {
+            "id": 6,
+            "title": "Dernière cigarette",
+            "prompt": "La pluie battait le pare-brise de la Pontiac comme une promesse de sang. Nick tira une dernière fois sur sa cigarette. Il n'allait pas rentrer vivant."
+        }
+    ]
+}
