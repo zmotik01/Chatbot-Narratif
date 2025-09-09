@@ -6,13 +6,6 @@ Ce projet a pour objectif de développer un **chatbot interactif** capable de **
 
 ---
 
-## 👥 Équipe
-
-- **Zineb MOTIK**
-- **Salma ZIDANE**
-
----
-
 ## 🧩 Fonctionnalités
 
 - Génération d’histoires via un modèle de langage (LLM - Mistral 7B via l’API Together)
@@ -45,15 +38,3 @@ Cela permet de comparer deux approches :
 - Génération avec prompt structuré
 - Génération brute à partir de la consigne
 
----
-
-## 🧪 Exemple de consigne
-
-"Écris une histoire pulp fiction dans laquelle un détective doit retrouver un tableau volé dans un musée parisien."
-
----
-
-## 📬 Contact
-
-Projet réalisé dans le cadre du module d'IAS.
-Pour toute question : z3motik@enib.fr / s2zidane@enib.fr
